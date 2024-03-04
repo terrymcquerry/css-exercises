@@ -1,0 +1,17 @@
+.same {
+    background-color:rgb(235, 153, 153) ;
+    font-family: verdana, DejaVu Sans, sans-serif;
+}
+#one {
+    color: blue;
+    font-size: 36px;
+
+}
+.same.cooler{
+    font-size: 24px;
+}
+#two{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgb(115, 239, 115);
+}
